@@ -1,0 +1,7 @@
+There are three main methods to obtain neighbors from GraphFrames.
+1. Using find() and filter
+
+2. Using collectNeighbors()
+e.g., g.vertices.collectNeighbors()
+
+3. Using triplets()
